@@ -1,2 +1,2 @@
-# PirvateSchool-Final-
+# PrivateSchool-Final-
 Coding Bootcamp Project (Private School Structure) using Java+mySQL+JDBC
